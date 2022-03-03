@@ -7,9 +7,9 @@
     "auto",
     "caption" 
   ],
-  "success_url": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
-  "website": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
-  "repository": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
+  "success_url": "https://github.com/emoceann/AutoCaptionTG-Bot",
+  "website": "https://github.com/emoceann/AutoCaptionTG-Bot",
+  "repository": "https://github.com/emoceann/AutoCaptionTG-Bot",
   "logo": "https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg",
   "env": {
     "WEBHOOK": {
